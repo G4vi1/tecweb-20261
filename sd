@@ -1,0 +1,36 @@
+[33mcommit 9b9074823cf90597eb028918315d0262c6730b91[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/pratica01[m[33m, [m[1;31morigin/feature/pratica01[m[33m)[m
+Author: G4vi1 <gabrielvictoy7@gmail.com>
+Date:   Tue Mar 24 11:50:34 2026 -0300
+
+    Atualização das alts
+
+[33mcommit ddb188eade9ddba36dbc84aedab93bea97d55e48[m
+Author: G4vi1 <gabrielvictoy7@gmail.com>
+Date:   Tue Mar 24 11:35:33 2026 -0300
+
+    Arrumando o HTML.
+
+[33mcommit 370b4e9a796333020bae17ddc3f5ac27d4883178[m
+Merge: 52ea3dc d489bd6
+Author: G4vi1 <gabrielvictoy7@gmail.com>
+Date:   Tue Mar 17 11:59:38 2026 -0300
+
+    Merge branch 'feature/pratica01' of https://github.com/G4vi1/tecweb-20261 into feature/pratica01
+
+[33mcommit 52ea3dc8c135baad2b0a59564da37065f1699a0e[m
+Author: unknown <2412130061@ACADEMICO.IESB.BR>
+Date:   Tue Mar 17 11:46:41 2026 -0300
+
+    feat: conclui pratica01. Fecha #ID
+
+[33mcommit d489bd63f016ce517270e0921a5139ce43b70752[m
+Author: unknown <2412130061@academico.iesb.br>
+Date:   Tue Mar 10 12:23:54 2026 -0300
+
+    Change
+
+[33mcommit 680e8a5af999f5c1961eab05122ff7b018fddf5c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/develop[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: G4vi <160501452+G4vi1@users.noreply.github.com>
+Date:   Tue Mar 10 11:21:54 2026 -0300
+
+    Initial commit
